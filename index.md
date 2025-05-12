@@ -5,9 +5,7 @@ title: The TEAM
 
 ## About the MAE 2250 Project
 
-<p align="center">
-  <img src="(https://github.com/user-attachments/assets/6b7c9da7-8f20-4311-944b-ef3feb5f8f50)" style="width:300px;" alt="Author">
-</p>
+![The TEAM](https://github.com/user-attachments/assets/bb804f76-d6c2-4d73-8a12-c18c1998ce49)
 
 Landing page for the ODP 7 project as a part of MAE 2250 (Mechanical Design). The goal of this landing page is to highlight the originally designed prototype that has been developed over the course of the SP 25 semester by Jonathan, Joseph, Ian, Mattew, and Eduardo.
 
