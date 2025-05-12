@@ -8,13 +8,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Jonathan Distler
+title                    : The Deskerciser
 title_separator          : "-"
-subtitle                 : # Jonathan Distler's Projects and CV
-name                     : Jonathan Distler
-description              : Jonathan Distler - Projects and CV 
-baseurl                  : "" # Set this to "portfolio-<your-github-username>" 
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : #The TEAM - Deskerciser
+name                     : The TEAM
+description              : The TEAM Renders and Design Components
+baseurl                  : "" # Set this to "portfolio-<JonathanDistler>" 
+url                      : # "https://Deskerciser.github.io"
 
 # Theme and Style
 theme: jekyll-theme-minimal
